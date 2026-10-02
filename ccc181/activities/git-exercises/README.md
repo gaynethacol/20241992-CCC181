@@ -14,39 +14,38 @@ My Git configuration uses my student ID number without the hyphen, as instructed
 
 ## Submitted Screenshots
 
-| Exercise No. | Exercise Title | Screenshot File |
+| Exercise No. | Exercise Title | Screenshot |
 |---|---|---|
-| 01 | <Exercise Title> | `<lastname>_<firstname>_01.png` |
-| 01 | master | Acol_Gayneth_01.png |
-| 02 | commit-one-file | Acol_Gayneth_02.png |
-| 03 | commit-one-file-staged | Acol_Gayneth_03.png |
-| 04 | ignore-them | Acol_Gayneth_04.png |
-| 05 | chase-branch | Acol_Gayneth_05.png |
-| 06 | merge-conflict | Acol_Gayneth_06.png |
-| 07 | save-your-work | Acol_Gayneth_07.png |
-| 08 | change-branch-history | Acol_Gayneth_08.png |
-| 09 | remove-ignored | Acol_Gayneth_09.png |
-| 10 | case-sensitive-filename | Acol_Gayneth_10.png |
-| 11 | fix-typo | Acol_Gayneth_11.png |
-| 12 | forge-date | Acol_Gayneth_12.png |
-| 13 | fix-old-typo | Acol_Gayneth_13.png |
-| 14 | commit-lost | Acol_Gayneth_14.png |
-| 15 | split-commit | Acol_Gayneth_15.png |
-| 16 | too-many-commits | Acol_Gayneth_16.png |
-| 17 | executable | Acol_Gayneth_17.png |
-| 18 | commit-parts | Acol_Gayneth_18.png |
-| 19 | pick-your-features | Acol_Gayneth_19.png |
-| 20 | rebase-complex | Acol_Gayneth_20.png |
-| 21 | invalid-order | Acol_Gayneth_21.png |
-| 22 | find-swearwords | Acol_Gayneth_22.png |
-| 23 | find-bug | Acol_Gayneth_23.png |
+| 01 | master | <img src="Acol_Gayneth_01.png" alt="Exercise 01 screenshot" width="420"> |
+| 02 | commit-one-file | <img src="Acol_Gayneth_02.png" alt="Exercise 02 screenshot" width="420"> |
+| 03 | commit-one-file-staged | <img src="Acol_Gayneth_03.png" alt="Exercise 03 screenshot" width="420"> |
+| 04 | ignore-them | <img src="Acol_Gayneth_04.png" alt="Exercise 04 screenshot" width="420"> |
+| 05 | chase-branch | <img src="Acol_Gayneth_05.png" alt="Exercise 05 screenshot" width="420"> |
+| 06 | merge-conflict | <img src="Acol_Gayneth_06.png" alt="Exercise 06 screenshot" width="420"> |
+| 07 | save-your-work | <img src="Acol_Gayneth_07.png" alt="Exercise 07 screenshot" width="420"> |
+| 08 | change-branch-history | <img src="Acol_Gayneth_08.png" alt="Exercise 08 screenshot" width="420"> |
+| 09 | remove-ignored | <img src="Acol_Gayneth_09.png" alt="Exercise 09 screenshot" width="420"> |
+| 10 | case-sensitive-filename | <img src="Acol_Gayneth_10.png" alt="Exercise 10 screenshot" width="420"> |
+| 11 | fix-typo | <img src="Acol_Gayneth_11.png" alt="Exercise 11 screenshot" width="420"> |
+| 12 | forge-date | <img src="Acol_Gayneth_12.png" alt="Exercise 12 screenshot" width="420"> |
+| 13 | fix-old-typo | <img src="Acol_Gayneth_13.png" alt="Exercise 13 screenshot" width="420"> |
+| 14 | commit-lost | <img src="Acol_Gayneth_14.png" alt="Exercise 14 screenshot" width="420"> |
+| 15 | split-commit | <img src="Acol_Gayneth_15.png" alt="Exercise 15 screenshot" width="420"> |
+| 16 | too-many-commits | <img src="Acol_Gayneth_16.png" alt="Exercise 16 screenshot" width="420"> |
+| 17 | executable | <img src="Acol_Gayneth_17.png" alt="Exercise 17 screenshot" width="420"> |
+| 18 | commit-parts | <img src="Acol_Gayneth_18.png" alt="Exercise 18 screenshot" width="420"> |
+| 19 | pick-your-features | <img src="Acol_Gayneth_19.png" alt="Exercise 19 screenshot" width="420"> |
+| 20 | rebase-complex | <img src="Acol_Gayneth_20.png" alt="Exercise 20 screenshot" width="420"> |
+| 21 | invalid-order | <img src="Acol_Gayneth_21.png" alt="Exercise 21 screenshot" width="420"> |
+| 22 | find-swearwords | <img src="Acol_Gayneth_22.png" alt="Exercise 22 screenshot" width="420"> |
+| 23 | find-bug | <img src="Acol_Gayneth_23.png" alt="Exercise 23 screenshot" width="420"> |
 
 > Add, remove, or update rows based on the exercises you completed.
 
 ## Folder Contents
 
 ```text
-activities/git-exercises/
+ccc181/activities/git-exercises/
 ├── README.md
 ├── <lastname>_<firstname>_01.png
 ├── <lastname>_<firstname>_02.png
